@@ -1,7 +1,3 @@
-Dưới đây là nội dung hoàn chỉnh cho file `README.md` bạn yêu cầu:
-
----
-
 ## 📘 Student Management CRUD – PHP + MySQL + JS + CSS
 
 Quản lý sinh viên với các chức năng: thêm, sửa, xoá, tìm kiếm, phân trang, chi tiết modal, đăng nhập/quyền truy cập.
